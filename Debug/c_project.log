@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\raf\desktop\mais_reading\vis_c_project\c_project\c_project\source.c(237): warning C4013: 'getch' undefined; assuming extern returning int
+  c_project.vcxproj -> C:\Users\raf\Desktop\mais_reading\vis_c_project\c_project\Debug\c_project.exe
